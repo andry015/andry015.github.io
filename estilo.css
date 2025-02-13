@@ -1,0 +1,114 @@
+body {
+    background-color: rgb(255, 244, 229);
+    margin: 0px;
+}
+
+.header_principal {
+    background-image: url(../trabalho_de_autoweb/imagens/teatro_img.png);
+    height: 400px;
+    background-size: cover;
+    background-position: right center;
+    margin-bottom: 0px;
+}
+
+.header_titulo {
+    color: maroon;
+    text-transform: uppercase;
+    background-color: mintcream;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.main_header h1 {
+
+    font-size: 50px;
+    text-shadow: 3px 5px 3px rgb(56, 55, 55)
+}
+
+.main_footer {
+    color: rgb(255, 233, 233);
+    text-align: center;
+    background-color: rgb(196, 214, 223);
+    padding: 20px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.92);
+    letter-spacing: 1px;
+}
+
+.main {
+    width: 80%;
+    margin: auto;
+}
+
+.img-float {
+    float:right;
+    margin: 10px;
+}
+
+article {
+    background-color: rgb(196, 214, 223);
+    text-align: justify;
+    padding: 10px;
+    margin: 25px;
+}
+
+article h2 {
+    background-color: rgb(247, 236, 229);
+    padding-top: 10px;
+    padding-bottom: 16px;
+    padding-left: 7px;
+    border-bottom: 4px solid rgb(237, 205, 205);
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: cadetblue;
+}
+
+p {
+    font-family: cursive;
+    color: rgb(105, 54, 54);
+    text-indent: 5%;
+}
+
+ul {
+    margin-top: 0px;
+}
+
+li {
+    display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+    padding-right: 200px;
+   
+}
+
+a {
+    text-decoration: none;
+    padding: 8px;
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: cadetblue;
+}
+
+a:hover{
+    background-color:rgb(255, 244, 229);
+}
+
+a:active{
+    background-color: bisque;
+}
+
+nav {
+    margin-top: 0px;
+    width: 100%;
+    background-color: burlywood;
+    text-align: center;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+}
+
