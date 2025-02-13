@@ -4,7 +4,7 @@ body {
 }
 
 .header_principal {
-    background-image: url(../trabalho_de_autoweb/imagens/teatro_img.png);
+    background-image: url(/imagens/teatro_img.png);
     height: 400px;
     background-size: cover;
     background-position: right center;
